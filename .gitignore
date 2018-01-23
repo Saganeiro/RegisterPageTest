@@ -81,3 +81,4 @@ pom.xml.tag
 hs_err_pid*
 sanityRodip/.metadata/
 Test/TestyAuto/.metadata/
+DiffImages/src/test/resources/patterns/logs/
