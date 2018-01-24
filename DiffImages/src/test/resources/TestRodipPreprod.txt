@@ -1,2 +1,3 @@
-https://preprod-rocheidentity.cs86.force.com/RDP_SignIn?country=AT;false;1666;;010000000
-https://preprod-rocheidentity.cs86.force.com/RDP_SignIn?country=BE&lang=nl;false;1666;;010000000
+http://serwer1820931.home.pl/PL.html;false;1666;;010000000
+http://serwer1820931.home.pl/DE.html;false;1666;;010000000
+http://serwer1820931.home.pl/ES.html;false;1666;;010000000
